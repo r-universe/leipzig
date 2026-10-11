@@ -8,3 +8,6 @@
 [submodule "dimoose"]
 	path = dimoose
 	url = https://github.com/leipzig/dimoose
+[submodule "rhylthyme"]
+	path = rhylthyme
+	url = https://github.com/rhylthyme/rhylthyme-r
